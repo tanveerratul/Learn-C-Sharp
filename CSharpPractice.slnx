@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Methods/Methods.csproj" />
   <Project Path="ObjectAndClass/ObjectAndClass.csproj" />
   <Project Path="Task001_Printing/Task001_Printing.csproj" />
 </Solution>
